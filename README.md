@@ -35,13 +35,12 @@ Aprendendo, praticando e transformando ideias em código.
 
 Minha percepção atual de familiaridade com cada tecnologia — sempre em construção.
 
-| Tecnologia | Progresso | Familiaridade |
-| :--- | :--- | :---: |
-| Python | `██████░░░░` | 60% |
-| Java | `██░░░░░░░░` | 20% |
-| JavaScript | `███░░░░░░░` | 30% |
-| HTML | `█████░░░░░` | 50% |
-| CSS | `████░░░░░░` | 40% |
+```mermaid
+xychart-beta horizontal
+    x-axis ["Python · 60%", "Java · 20%", "JavaScript · 30%", "HTML · 50%", "CSS · 40%"]
+    y-axis "Familiaridade (%)" 0 --> 100
+    bar [60, 20, 30, 50, 40]
+```
 
 ---
 
