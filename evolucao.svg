@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+<title id="title">Minha evolução</title>
+<desc id="desc">Autoavaliação: Python 60%, Java 20%, JavaScript 30%, HTML 50%, CSS 40%.</desc>
+<defs><linearGradient id="purple"><stop stop-color="#7928ca"/><stop offset="1" stop-color="#b794ff"/></linearGradient></defs>
+<rect x="1" y="1" width="898" height="328" rx="18" fill="#09060e" stroke="#39204f"/>
+<text x="32" y="43" fill="#a855f7" font-family="monospace" font-size="21">$ <tspan fill="#ede9fe" font-weight="bold">minha-evolucao</tspan></text>
+<text x="32" y="68" fill="#968ba8" font-family="Arial,sans-serif" font-size="13">Familiaridade com cada tecnologia · autoavaliação</text>
+<text x="32" y="111" fill="#f5f3ff" font-family="monospace" font-size="16">Python</text><rect x="225" y="99" width="550" height="13" rx="6.5" fill="#1b1127"/><rect x="225" y="99" width="330" height="13" rx="6.5" fill="url(#purple)"/><text x="838" y="111" text-anchor="end" fill="#c4b5fd" font-family="monospace" font-size="16">60%</text>
+<text x="32" y="154" fill="#f5f3ff" font-family="monospace" font-size="16">Java</text><rect x="225" y="142" width="550" height="13" rx="6.5" fill="#1b1127"/><rect x="225" y="142" width="110" height="13" rx="6.5" fill="url(#purple)"/><text x="838" y="154" text-anchor="end" fill="#c4b5fd" font-family="monospace" font-size="16">20%</text>
+<text x="32" y="197" fill="#f5f3ff" font-family="monospace" font-size="16">JavaScript</text><rect x="225" y="185" width="550" height="13" rx="6.5" fill="#1b1127"/><rect x="225" y="185" width="165" height="13" rx="6.5" fill="url(#purple)"/><text x="838" y="197" text-anchor="end" fill="#c4b5fd" font-family="monospace" font-size="16">30%</text>
+<text x="32" y="240" fill="#f5f3ff" font-family="monospace" font-size="16">HTML</text><rect x="225" y="228" width="550" height="13" rx="6.5" fill="#1b1127"/><rect x="225" y="228" width="275" height="13" rx="6.5" fill="url(#purple)"/><text x="838" y="240" text-anchor="end" fill="#c4b5fd" font-family="monospace" font-size="16">50%</text>
+<text x="32" y="283" fill="#f5f3ff" font-family="monospace" font-size="16">CSS</text><rect x="225" y="271" width="550" height="13" rx="6.5" fill="#1b1127"/><rect x="225" y="271" width="220" height="13" rx="6.5" fill="url(#purple)"/><text x="838" y="283" text-anchor="end" fill="#c4b5fd" font-family="monospace" font-size="16">40%</text>
+</svg>
