@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Thiagordsr/Thiagordsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Thiago! 👋
 
-Here are some ideas to get you started:
+### 🐍 Python · ☕ Java · 🌐 Desenvolvimento Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aprendendo, praticando e transformando ideias em código.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Thiagordsr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiagordsr)
+
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 🐍 Python é a linguagem com que tenho mais familiaridade.
+- ☕ Também estou desenvolvendo minhas habilidades em Java.
+- 🌐 Pratico HTML, CSS e JavaScript para criar interfaces na web.
+- 📚 Este perfil é um espaço para compartilhar meus projetos e acompanhar minha evolução.
+
+### 🛠️ Tecnologias
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+</div>
+
+### 📊 Minha evolução
+
+Minha percepção atual de familiaridade com cada tecnologia — sempre em construção.
+
+| Tecnologia | Progresso | Familiaridade |
+| :--- | :--- | :---: |
+| Python | `██████░░░░` | 60% |
+| Java | `██░░░░░░░░` | 20% |
+| JavaScript | `███░░░░░░░` | 30% |
+| HTML | `█████░░░░░` | 50% |
+| CSS | `████░░░░░░` | 40% |
+
+---
+
+<div align="center">
+
+**Um projeto de cada vez, uma habilidade a mais. 🚀**
+
+[Explore meus repositórios →](https://github.com/Thiagordsr?tab=repositories)
+
+</div>
