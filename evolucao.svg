@@ -1,12 +1,424 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
-<title id="title">Tecnologias em órbita</title><desc id="desc">Familiaridade autoavaliada: Python 60%, Java 20%, JavaScript 30%, HTML 50%, CSS 40%. Cada círculo representa uma escala independente de zero a cem.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081727"/><stop offset="1" stop-color="#0c2236"/></linearGradient><linearGradient id="arc" x2="1" y2="1"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
-<rect x="1" y="1" width="998" height="358" rx="24" fill="url(#bg)" stroke="#204258"/>
-<path d="M32 40h28" stroke="#2dd4bf" stroke-width="4" stroke-linecap="round"/><text x="74" y="46" fill="#8edbdc" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">THIAGORDSR / DEV JOURNEY</text>
-<text x="32" y="90" fill="#eef8ff" font-family="Arial,sans-serif" font-size="29" font-weight="700">Tecnologias em órbita</text><text x="32" y="116" fill="#95afc3" font-family="Arial,sans-serif" font-size="14">Aprendizado contínuo, uma habilidade de cada vez.</text>
-<g><circle cx="108" cy="208" r="63" fill="none" stroke="#1a3a50" stroke-dasharray="2 9"/><circle cx="108" cy="208" r="51" fill="#0a1c2c" stroke="#19374b" stroke-width="9"/><circle cx="108" cy="208" r="51" fill="none" stroke="url(#arc)" stroke-width="9" stroke-linecap="round" stroke-dasharray="192.265 320.442" transform="rotate(-90 108 208)"/><text x="108" y="218" text-anchor="middle" fill="#f1fbff" font-family="Arial,sans-serif" font-size="30" font-weight="700">60<tspan font-size="15" fill="#82a9bf">%</tspan></text><text x="108" y="297" text-anchor="middle" fill="#d9edf9" font-family="Arial,sans-serif" font-size="17" font-weight="600">Python</text></g>
-<g><circle cx="304" cy="208" r="63" fill="none" stroke="#1a3a50" stroke-dasharray="2 9"/><circle cx="304" cy="208" r="51" fill="#0a1c2c" stroke="#19374b" stroke-width="9"/><circle cx="304" cy="208" r="51" fill="none" stroke="url(#arc)" stroke-width="9" stroke-linecap="round" stroke-dasharray="64.088 320.442" transform="rotate(-90 304 208)"/><text x="304" y="218" text-anchor="middle" fill="#f1fbff" font-family="Arial,sans-serif" font-size="30" font-weight="700">20<tspan font-size="15" fill="#82a9bf">%</tspan></text><text x="304" y="297" text-anchor="middle" fill="#d9edf9" font-family="Arial,sans-serif" font-size="17" font-weight="600">Java</text></g>
-<g><circle cx="500" cy="208" r="63" fill="none" stroke="#1a3a50" stroke-dasharray="2 9"/><circle cx="500" cy="208" r="51" fill="#0a1c2c" stroke="#19374b" stroke-width="9"/><circle cx="500" cy="208" r="51" fill="none" stroke="url(#arc)" stroke-width="9" stroke-linecap="round" stroke-dasharray="96.133 320.442" transform="rotate(-90 500 208)"/><text x="500" y="218" text-anchor="middle" fill="#f1fbff" font-family="Arial,sans-serif" font-size="30" font-weight="700">30<tspan font-size="15" fill="#82a9bf">%</tspan></text><text x="500" y="297" text-anchor="middle" fill="#d9edf9" font-family="Arial,sans-serif" font-size="17" font-weight="600">JavaScript</text></g>
-<g><circle cx="696" cy="208" r="63" fill="none" stroke="#1a3a50" stroke-dasharray="2 9"/><circle cx="696" cy="208" r="51" fill="#0a1c2c" stroke="#19374b" stroke-width="9"/><circle cx="696" cy="208" r="51" fill="none" stroke="url(#arc)" stroke-width="9" stroke-linecap="round" stroke-dasharray="160.221 320.442" transform="rotate(-90 696 208)"/><text x="696" y="218" text-anchor="middle" fill="#f1fbff" font-family="Arial,sans-serif" font-size="30" font-weight="700">50<tspan font-size="15" fill="#82a9bf">%</tspan></text><text x="696" y="297" text-anchor="middle" fill="#d9edf9" font-family="Arial,sans-serif" font-size="17" font-weight="600">HTML</text></g>
-<g><circle cx="892" cy="208" r="63" fill="none" stroke="#1a3a50" stroke-dasharray="2 9"/><circle cx="892" cy="208" r="51" fill="#0a1c2c" stroke="#19374b" stroke-width="9"/><circle cx="892" cy="208" r="51" fill="none" stroke="url(#arc)" stroke-width="9" stroke-linecap="round" stroke-dasharray="128.177 320.442" transform="rotate(-90 892 208)"/><text x="892" y="218" text-anchor="middle" fill="#f1fbff" font-family="Arial,sans-serif" font-size="30" font-weight="700">40<tspan font-size="15" fill="#82a9bf">%</tspan></text><text x="892" y="297" text-anchor="middle" fill="#d9edf9" font-family="Arial,sans-serif" font-size="17" font-weight="600">CSS</text></g>
-<text x="32" y="336" fill="#789bb2" font-family="Arial,sans-serif" font-size="12">FAMILIARIDADE · AUTOAVALIAÇÃO</text><text x="968" y="336" text-anchor="end" fill="#789bb2" font-family="Arial,sans-serif" font-size="12">Cada órbita = 100%</text></svg>
+
+<title id="title">Tecnologias em órbita</title>
+
+<desc id="desc">
+Familiaridade autoavaliada: Python 60%, Java 20%, JavaScript 30%, HTML 50%, CSS 40%, SQL 15%.
+Cada círculo representa uma escala independente de zero a cem.
+</desc>
+
+<defs>
+    <linearGradient id="bg" x2="1" y2="1">
+        <stop stop-color="#081727"/>
+        <stop offset="1" stop-color="#0c2236"/>
+    </linearGradient>
+
+    <linearGradient id="arc" x2="1" y2="1">
+        <stop stop-color="#2dd4bf"/>
+        <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+</defs>
+
+<rect
+    x="1"
+    y="1"
+    width="998"
+    height="358"
+    rx="24"
+    fill="url(#bg)"
+    stroke="#204258"
+/>
+
+<path
+    d="M32 40h28"
+    stroke="#2dd4bf"
+    stroke-width="4"
+    stroke-linecap="round"
+/>
+
+<text
+    x="74"
+    y="46"
+    fill="#8edbdc"
+    font-family="Arial,sans-serif"
+    font-size="13"
+    letter-spacing="3">
+    THIAGORDSR / DEV JOURNEY
+</text>
+
+<text
+    x="32"
+    y="90"
+    fill="#eef8ff"
+    font-family="Arial,sans-serif"
+    font-size="29"
+    font-weight="700">
+    Tecnologias em órbita
+</text>
+
+<text
+    x="32"
+    y="116"
+    fill="#95afc3"
+    font-family="Arial,sans-serif"
+    font-size="14">
+    Aprendizado contínuo, uma habilidade de cada vez.
+</text>
+
+
+<!-- PYTHON -->
+<g>
+    <circle
+        cx="90"
+        cy="208"
+        r="60"
+        fill="none"
+        stroke="#1a3a50"
+        stroke-dasharray="2 9"
+    />
+
+    <circle
+        cx="90"
+        cy="208"
+        r="48"
+        fill="#0a1c2c"
+        stroke="#19374b"
+        stroke-width="9"
+    />
+
+    <circle
+        cx="90"
+        cy="208"
+        r="48"
+        fill="none"
+        stroke="url(#arc)"
+        stroke-width="9"
+        stroke-linecap="round"
+        stroke-dasharray="180.956 301.593"
+        transform="rotate(-90 90 208)"
+    />
+
+    <text
+        x="90"
+        y="218"
+        text-anchor="middle"
+        fill="#f1fbff"
+        font-family="Arial,sans-serif"
+        font-size="28"
+        font-weight="700">
+        60<tspan font-size="14" fill="#82a9bf">%</tspan>
+    </text>
+
+    <text
+        x="90"
+        y="297"
+        text-anchor="middle"
+        fill="#d9edf9"
+        font-family="Arial,sans-serif"
+        font-size="16"
+        font-weight="600">
+        Python
+    </text>
+</g>
+
+
+<!-- JAVA -->
+<g>
+    <circle
+        cx="254"
+        cy="208"
+        r="60"
+        fill="none"
+        stroke="#1a3a50"
+        stroke-dasharray="2 9"
+    />
+
+    <circle
+        cx="254"
+        cy="208"
+        r="48"
+        fill="#0a1c2c"
+        stroke="#19374b"
+        stroke-width="9"
+    />
+
+    <circle
+        cx="254"
+        cy="208"
+        r="48"
+        fill="none"
+        stroke="url(#arc)"
+        stroke-width="9"
+        stroke-linecap="round"
+        stroke-dasharray="60.319 301.593"
+        transform="rotate(-90 254 208)"
+    />
+
+    <text
+        x="254"
+        y="218"
+        text-anchor="middle"
+        fill="#f1fbff"
+        font-family="Arial,sans-serif"
+        font-size="28"
+        font-weight="700">
+        20<tspan font-size="14" fill="#82a9bf">%</tspan>
+    </text>
+
+    <text
+        x="254"
+        y="297"
+        text-anchor="middle"
+        fill="#d9edf9"
+        font-family="Arial,sans-serif"
+        font-size="16"
+        font-weight="600">
+        Java
+    </text>
+</g>
+
+
+<!-- JAVASCRIPT -->
+<g>
+    <circle
+        cx="418"
+        cy="208"
+        r="60"
+        fill="none"
+        stroke="#1a3a50"
+        stroke-dasharray="2 9"
+    />
+
+    <circle
+        cx="418"
+        cy="208"
+        r="48"
+        fill="#0a1c2c"
+        stroke="#19374b"
+        stroke-width="9"
+    />
+
+    <circle
+        cx="418"
+        cy="208"
+        r="48"
+        fill="none"
+        stroke="url(#arc)"
+        stroke-width="9"
+        stroke-linecap="round"
+        stroke-dasharray="90.478 301.593"
+        transform="rotate(-90 418 208)"
+    />
+
+    <text
+        x="418"
+        y="218"
+        text-anchor="middle"
+        fill="#f1fbff"
+        font-family="Arial,sans-serif"
+        font-size="28"
+        font-weight="700">
+        30<tspan font-size="14" fill="#82a9bf">%</tspan>
+    </text>
+
+    <text
+        x="418"
+        y="297"
+        text-anchor="middle"
+        fill="#d9edf9"
+        font-family="Arial,sans-serif"
+        font-size="16"
+        font-weight="600">
+        JavaScript
+    </text>
+</g>
+
+
+<!-- HTML -->
+<g>
+    <circle
+        cx="582"
+        cy="208"
+        r="60"
+        fill="none"
+        stroke="#1a3a50"
+        stroke-dasharray="2 9"
+    />
+
+    <circle
+        cx="582"
+        cy="208"
+        r="48"
+        fill="#0a1c2c"
+        stroke="#19374b"
+        stroke-width="9"
+    />
+
+    <circle
+        cx="582"
+        cy="208"
+        r="48"
+        fill="none"
+        stroke="url(#arc)"
+        stroke-width="9"
+        stroke-linecap="round"
+        stroke-dasharray="150.796 301.593"
+        transform="rotate(-90 582 208)"
+    />
+
+    <text
+        x="582"
+        y="218"
+        text-anchor="middle"
+        fill="#f1fbff"
+        font-family="Arial,sans-serif"
+        font-size="28"
+        font-weight="700">
+        50<tspan font-size="14" fill="#82a9bf">%</tspan>
+    </text>
+
+    <text
+        x="582"
+        y="297"
+        text-anchor="middle"
+        fill="#d9edf9"
+        font-family="Arial,sans-serif"
+        font-size="16"
+        font-weight="600">
+        HTML
+    </text>
+</g>
+
+
+<!-- CSS -->
+<g>
+    <circle
+        cx="746"
+        cy="208"
+        r="60"
+        fill="none"
+        stroke="#1a3a50"
+        stroke-dasharray="2 9"
+    />
+
+    <circle
+        cx="746"
+        cy="208"
+        r="48"
+        fill="#0a1c2c"
+        stroke="#19374b"
+        stroke-width="9"
+    />
+
+    <circle
+        cx="746"
+        cy="208"
+        r="48"
+        fill="none"
+        stroke="url(#arc)"
+        stroke-width="9"
+        stroke-linecap="round"
+        stroke-dasharray="120.637 301.593"
+        transform="rotate(-90 746 208)"
+    />
+
+    <text
+        x="746"
+        y="218"
+        text-anchor="middle"
+        fill="#f1fbff"
+        font-family="Arial,sans-serif"
+        font-size="28"
+        font-weight="700">
+        40<tspan font-size="14" fill="#82a9bf">%</tspan>
+    </text>
+
+    <text
+        x="746"
+        y="297"
+        text-anchor="middle"
+        fill="#d9edf9"
+        font-family="Arial,sans-serif"
+        font-size="16"
+        font-weight="600">
+        CSS
+    </text>
+</g>
+
+
+<!-- SQL -->
+<g>
+    <circle
+        cx="910"
+        cy="208"
+        r="60"
+        fill="none"
+        stroke="#1a3a50"
+        stroke-dasharray="2 9"
+    />
+
+    <circle
+        cx="910"
+        cy="208"
+        r="48"
+        fill="#0a1c2c"
+        stroke="#19374b"
+        stroke-width="9"
+    />
+
+    <circle
+        cx="910"
+        cy="208"
+        r="48"
+        fill="none"
+        stroke="url(#arc)"
+        stroke-width="9"
+        stroke-linecap="round"
+        stroke-dasharray="45.239 301.593"
+        transform="rotate(-90 910 208)"
+    />
+
+    <text
+        x="910"
+        y="218"
+        text-anchor="middle"
+        fill="#f1fbff"
+        font-family="Arial,sans-serif"
+        font-size="28"
+        font-weight="700">
+        15<tspan font-size="14" fill="#82a9bf">%</tspan>
+    </text>
+
+    <text
+        x="910"
+        y="297"
+        text-anchor="middle"
+        fill="#d9edf9"
+        font-family="Arial,sans-serif"
+        font-size="16"
+        font-weight="600">
+        SQL
+    </text>
+</g>
+
+
+<text
+    x="32"
+    y="336"
+    fill="#789bb2"
+    font-family="Arial,sans-serif"
+    font-size="12">
+    FAMILIARIDADE · AUTOAVALIAÇÃO
+</text>
+
+<text
+    x="968"
+    y="336"
+    text-anchor="end"
+    fill="#789bb2"
+    font-family="Arial,sans-serif"
+    font-size="12">
+    Cada órbita = 100%
+</text>
+
+</svg>
