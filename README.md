@@ -28,7 +28,7 @@ Aprendendo, praticando e transformando ideias em código.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 </div>
@@ -37,9 +37,7 @@ Aprendendo, praticando e transformando ideias em código.
 
 Minha percepção atual de familiaridade com cada tecnologia — sempre em construção.
 
-![Minha evolução: Python 60%, Java 20%, JavaScript 30%, HTML 50%, CSS 40%](https://github.com/Thiagordsr/Thiagordsr/raw/4f9d0d33e06a0b235f2ba38ac133769bfe4d72ba/evolucao.svg)
-
----
+![Minha evolução: Python 60%, Java 20%, JavaScript 30%, HTML 50%, CSS 40%, SQL 15%](https://github.com/Thiagordsr/Thiagordsr/raw/4f9d0d33e06a0b235f2ba38ac133769bfe4d72ba/evolucao.svg)
 
 <div align="center">
 
