@@ -21,9 +21,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=thiagordsr&locale=pt-br&mode=daily&theme=react&hide_border=true&border_radius=9" height="8" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/thiagordsr/thiagordsr/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/thiagordsr/thiagordsr/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/thiagordsr/thiagordsr/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="200" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/thiagordsr/thiagordsr/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
