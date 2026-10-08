@@ -11,7 +11,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=thiagordsr&locale=pt-br&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=thiagordsr&locale=pt-br&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
